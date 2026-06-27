@@ -1,8 +1,6 @@
 # 🏦 Bank Marketing Campaign Prediction using Machine Learning
 
-<p align="center">
-<img src="images/banner.png" width="100%">
-</p>
+
 
 ## 📌 Project Overview
 
